@@ -1,0 +1,68 @@
+html {
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+body {
+  margin: 0;
+  background-color: #F8F8F8;
+  font-family: "Rubik";
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("/assets/fonts/RubikRegular.ttf") format("ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("/assets/fonts/RubikLight.ttf") format("ttf");
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: "Rubik";
+  src: url("/assets/fonts/RubikBold.ttf") format("ttf");
+  font-weight: bold;
+}
+
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: $darkgreen;
+
+}
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+  color: $darkgreen;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+}
+
+

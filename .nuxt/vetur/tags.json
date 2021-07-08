@@ -1,0 +1,56 @@
+{
+  "About": {
+    "description": "Auto imported from components/global/About.vue"
+  },
+  "LazyAbout": {
+    "description": "Auto imported from components/global/About.vue"
+  },
+  "ActuCard": {
+    "description": "Auto imported from components/global/ActuCard.vue"
+  },
+  "LazyActuCard": {
+    "description": "Auto imported from components/global/ActuCard.vue"
+  },
+  "ActuCards": {
+    "description": "Auto imported from components/global/ActuCards.vue"
+  },
+  "LazyActuCards": {
+    "description": "Auto imported from components/global/ActuCards.vue"
+  },
+  "ActuCardsHome": {
+    "description": "Auto imported from components/global/ActuCardsHome.vue"
+  },
+  "LazyActuCardsHome": {
+    "description": "Auto imported from components/global/ActuCardsHome.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/global/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/global/Footer.vue"
+  },
+  "Mapbox": {
+    "description": "Auto imported from components/global/Mapbox.vue"
+  },
+  "LazyMapbox": {
+    "description": "Auto imported from components/global/Mapbox.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/global/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/global/Navbar.vue"
+  },
+  "SocialNetwork": {
+    "description": "Auto imported from components/global/social/SocialNetwork.vue"
+  },
+  "LazySocialNetwork": {
+    "description": "Auto imported from components/global/social/SocialNetwork.vue"
+  },
+  "SocialShare": {
+    "description": "Auto imported from components/global/social/socialShare.vue"
+  },
+  "LazySocialShare": {
+    "description": "Auto imported from components/global/social/socialShare.vue"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "accessibilite",
+    "path": "/accessibilite",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\accessibilite.vue",
+    "chunkName": "pages/accessibilite",
+    "_name": "_fbdf79f8"
+  },
+  {
+    "name": "actions",
+    "path": "/actions",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\actions.vue",
+    "chunkName": "pages/actions",
+    "_name": "_e34a8272"
+  },
+  {
+    "name": "actualites",
+    "path": "/actualites",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\actualites.vue",
+    "chunkName": "pages/actualites",
+    "_name": "_99861466"
+  },
+  {
+    "name": "associations",
+    "path": "/associations",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\associations.vue",
+    "chunkName": "pages/associations",
+    "_name": "_38427990"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_3159506a"
+  },
+  {
+    "name": "falc",
+    "path": "/falc",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\falc.vue",
+    "chunkName": "pages/falc",
+    "_name": "_30ceb6d0"
+  },
+  {
+    "name": "mentions",
+    "path": "/mentions",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\mentions.vue",
+    "chunkName": "pages/mentions",
+    "_name": "_2914f26f"
+  },
+  {
+    "name": "presentation",
+    "path": "/presentation",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\presentation.vue",
+    "chunkName": "pages/presentation",
+    "_name": "_746a4a40"
+  },
+  {
+    "name": "actualite-id",
+    "path": "/actualite/:id?",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\actualite\\\\_id.vue",
+    "chunkName": "pages/actualite/_id",
+    "_name": "_7f9b01d8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Boy50\\\\Desktop\\\\2eannee\\\\DEv\\\\udapei74\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6ee2709c"
+  }
+]
